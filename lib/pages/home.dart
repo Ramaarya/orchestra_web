@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
                     context: context,
                     builder: (context) {
                       return const AlertDialog(
-                        content: Text('Dalam Proses'),
+                        content: Text('Dalam'),
                       );
                     });
               },
